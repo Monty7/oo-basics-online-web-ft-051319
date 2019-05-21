@@ -14,6 +14,8 @@ class Book
   def author
     @author
   end
+  
+  def pageCount
 end
 
 Book.new("And Then There Were None")
