@@ -14,5 +14,5 @@ class Shoe
   
 end
 
-new_shoe = Shoe.new 
+new_shoe = Shoe.new("Nike")
 new_shoe.condition = "new"
